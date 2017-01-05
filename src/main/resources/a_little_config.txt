@@ -1,0 +1,8 @@
+jdbcUrl = jdbc:mysql://lanccj.synology.me:33606/jcbase?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+user = lanccj
+password = 891021yan
+static_url=http://localhost:7070/jcbase/upload/
+uploadPath=/Users/yulong/remote/jcbase/src/main/webapp/upload/
+res_url=http://localhost:7070/jcbase/res/
+devMode=true
+app_key=80b8a85d78bf4f87baa0994a38b48825
